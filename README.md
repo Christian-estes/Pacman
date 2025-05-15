@@ -1,12 +1,12 @@
 # Pacman
 
-![game_screenshot](imgs\Pacman_game_photo.png)
+![game_screenshot](imgs/Pacman_game_photo.png)
 
 This is a modern recreation of the classic Pacman arcade game, developed to demonstrate my skills in game design, logic implementation, and user input. The project features smooth player controls, enemy AI behavior, collision detection, and a responsive interface. Built using Python, it captures the core mechanics of the original code.
 
 ## Maze Ghost AI Behaviors
 
-![ghost_mechanics](imgs\info_imgs\ghosts_mechanics.png)
+![ghost_mechanics](imgs/info_imgs/ghosts_mechanics.png)
 
 - **Blinky**: Follows Pacman directly
 - **Pinky**: Chases towards the spot 2 dots in front of Pacman
